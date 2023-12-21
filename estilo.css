@@ -1,0 +1,165 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.primeiro {
+    background-color: #ced9df;
+    margin: 0 auto;
+    text-align: center;
+    padding: 30px 0;
+}
+
+.primeiro img {
+    width: 190px;
+    margin-bottom: 15px;
+}
+
+.primeiro a {
+    text-align: center;
+    padding: 2px 10px;
+    font-size: 20px;
+    color: #000000;
+}
+
+.segundo {
+    margin: 50px 0;
+    text-align: center;
+}
+
+.segundo img {
+    width: 1000px;
+}
+
+.texto-destaque-azul {
+    color: rgb(85, 131, 210);
+    font-weight: bold;
+}
+
+.terceiro {
+    text-align: center;
+    padding-top: 20px;
+}
+
+.terceiro h1 {
+    margin-bottom: 4px;
+}
+.terceiro h2 {
+    padding: 0;
+    margin-top: 0;
+    font-weight: normal;
+}
+
+.terceiro img {
+    width: 500px;
+    padding-bottom: 15px;
+}
+
+.terceiro p {
+    width: 1000px;
+    margin: 0 auto;
+    text-align: justify;
+    line-height: 24px;
+    padding-bottom: 20px;
+}
+
+.quarto {
+    background-color: rgb(22, 108, 200);
+    color: #ffffff;
+    text-align: center;
+    /* padding-top: 20px;
+    padding-bottom: 40px; */
+    height: 480px;
+    padding-top: 40px;
+}
+
+.quarto p {
+    font-size: 20px;
+    width: 720px;
+    margin: 0 auto;
+    line-height: 38px;
+}
+
+.quarto ul {
+    width: 150px;
+    margin: 0 auto;
+    text-align: left;
+    padding-top: 50px;
+    line-height: 30px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.quarto {
+    font-weight: bold;
+}
+
+.texto-destaque-amarelo {
+    color: rgb(244, 244, 66);
+    font-weight: bold;
+}
+
+.quinto {
+    text-align: center;
+}
+
+.quinto h1 {
+    padding: 40px 0 20px 0;
+}
+
+.quinto img {
+    width: 500px;
+}
+
+.quinto p {
+    line-height: 30px;
+
+}
+
+.sexto {
+    text-align: center;
+    background-color: rgb(22, 108, 200);
+    color: #ffffff;
+    padding: 50px 0;
+}
+
+.sexto h1 {
+    padding-bottom: 20px;
+}
+
+.sexto img {
+    padding-bottom: 200px;
+}
+
+.sexto p {
+    width: 1000px;
+    margin: 25px auto;
+    padding: 20px;
+    background-color: #000000;
+}
+
+.sexto ul {
+    padding: 15px;
+}
+
+.sexto ul li {
+    line-height: 30px;
+    font-size: 20px;
+    background-color: #ffffff;
+    margin: 15px auto;
+    border-radius: 5px;
+
+}
+
+.sexto ul .barra-tijuca{
+    width: 270px;
+}
+
+.sexto ul .centro-rj{
+    width: 220px;
+}
+
+.sexto ul .meier{
+    width: 180px;
+}
